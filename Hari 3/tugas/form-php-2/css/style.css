@@ -3,6 +3,7 @@ body {
 }
 form{
     border-radius: 5px;
+    font-family: 'Quicksand', sans-serif;
 }
 .jumbotron{
     width: 50%;

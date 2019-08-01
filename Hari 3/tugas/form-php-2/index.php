@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
     <script src="css/bootstrap/js/bootstrap.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
 </head>
 <body>
     <center>
