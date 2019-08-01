@@ -1,0 +1,14 @@
+body {
+    background: url(../assets/img/bg.jpg)
+}
+form{
+    border-radius: 5px;
+}
+.jumbotron{
+    width: 50%;
+    height: 40%;
+}
+.head{
+    margin-top: 10px;
+    font-family: 'Lobster', cursive;
+}
